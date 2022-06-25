@@ -1,0 +1,10 @@
+{
+	"build_systems":
+    [
+        {
+        	"path": "C:/Users/skide/AppData/Local/Continuum/anaconda3/bin",
+            "name": "Python",
+            "shell_cmd": "$python3 ",
+        }
+    ]
+}
